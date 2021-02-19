@@ -1,3 +1,3 @@
-[through github](arastel.github.io)
+[through github](http://www.arastel.github.io)
 
-[through custom domain](rastel.fr)
+[through custom domain](http://www.rastel.fr)
