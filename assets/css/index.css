@@ -11,7 +11,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: radial-gradient(ellipse at bottom left, #000, #000, #000, #61191a);
+  background: radial-gradient(ellipse at bottom left, #000, #000, #000,  #21618c );
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 30px;
